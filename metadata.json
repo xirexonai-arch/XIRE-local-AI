@@ -1,0 +1,8 @@
+{
+  "name": "XIRE AI",
+  "description": "Run lightweight AI models directly on your Android device with a seamless, user-friendly interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
